@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # YouTube_Content_Optimizer_Crew
 =======
 # YouTube Content Optimizer Crew
