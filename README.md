@@ -1,6 +1,4 @@
 
-# YouTube_Content_Optimizer_Crew
-=======
 # YouTube Content Optimizer Crew
 
 Welcome to the YouTube Content Optimizer Crew project,. This project uses multiple AI agents to optimize your YouTube content metadata, including titles, descriptions, and tags, to maximize visibility and engagement.
@@ -65,5 +63,3 @@ The YouTube Content Optimizer Crew consists of three specialized AI agents:
 
 Each agent collaborates to ensure your YouTube content has the best chance of success in the algorithm.
 
-
->>>>>>> b7c534d (Initial commit)
