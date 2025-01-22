@@ -34,8 +34,8 @@ uv sync
 ### Configuration
 
 1. Add your `OPENAI_API_KEY` into the `.env` file
-2. Modify `src/job_change_monitor/config/agents.yaml` to customize agent behaviors
-3. Modify `src/job_change_monitor/config/tasks.yaml` to adjust optimization tasks
+2. Modify `src/youtube_optimization/config/agents.yaml` to customize agent behaviors
+3. Modify `src/youtube_optimization/config/tasks.yaml` to adjust optimization tasks
 4. Modify the main scripts to customize input/output handling
 
 ## Usage
