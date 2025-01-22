@@ -1,0 +1,40 @@
+generate_title_task:
+  description: >
+    Analyze the video content and target audience to create an engaging,
+    clickable, and SEO-optimized title. Consider:
+    - Current YouTube trends and patterns
+    - Emotional triggers and curiosity gaps
+    - Keyword optimization and searchability
+    - Character length limitations
+    - Avoid clickbait while maintaining high CTR
+  expected_output: >
+    A list of 3-5 optimized title variations, ranked by potential effectiveness,
+    with explanations for why each would perform well.
+
+create_description_task:
+  description: >
+    Create a comprehensive video description that maximizes visibility and
+    engagement. Include:
+    - Compelling first 2-3 lines visible before "Show more"
+    - Relevant timestamps for longer videos
+    - Key information and main points
+    - Relevant links and calls-to-action
+    - Strategic keyword placement
+  expected_output: >
+    A fully formatted description with proper spacing, timestamps, and
+    strategic keyword placement, optimized for both viewers and search.
+
+research_tags_task:
+  description: >
+    Research and compile the most effective tags for the video, considering:
+    - Primary and secondary keywords
+    - Related search terms
+    - Competitor analysis
+    - Trending topics in the niche
+    - Mix of broad and specific tags
+  expected_output: >
+    A list of 15-20 optimized tags, including:
+    1. Primary keywords and variations
+    2. Related terms and phrases
+    3. Trending tags in the niche
+    4. Estimated search volume for each tag
