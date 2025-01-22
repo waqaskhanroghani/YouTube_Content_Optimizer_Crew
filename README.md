@@ -47,7 +47,7 @@ $ crewai run
 ```
 or
 ```bash
-uv run job_change_monitor
+uv run youtube_optimization
 ```
 
 The system will generate:
